@@ -1,3 +1,0 @@
-/*Bu Plugin Paylasilmasi Yasakdir 
-Coded By Nicat.dcw
-*/

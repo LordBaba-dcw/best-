@@ -1,0 +1,9 @@
+name: WebTools
+api: 4.0.0
+version: Beta
+Main: kardespro/main
+author: Kardespro Ve Kingprooyun
+commands:
+  webonay:
+  description: FloraTR Web Onay
+  permission : webtools.kmt
